@@ -1,8 +1,8 @@
-Login API (JWT Auth)
+#Login API (JWT Auth)
 Simple Express REST API for user registration, login, and a protected “me” endpoint using JWT.
 
-Endpoints
-POST /api/auth/register
+#Endpoints
+*POST /api/auth/register
 Body: { "username": "...", "password": "..." }
 Returns: 201 user info + token
 POST /api/auth/login
