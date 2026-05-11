@@ -2,7 +2,7 @@
 
 A simple Express REST API providing secure user registration, login authentication, and a protected user profile route using JSON Web Tokens (JWT).
 
-## 🚀 Endpoints
+##  Endpoints
 
 ### Register User
 *   **Method / Route:** `POST /api/auth/register`
@@ -39,7 +39,7 @@ A simple Express REST API providing secure user registration, login authenticati
 
 ---
 
-## 🔑 Demo Credentials
+##  Demo Credentials
 
 To test the authentication endpoints immediately, use the following account:
 *   **Username:** `demo`
@@ -47,7 +47,7 @@ To test the authentication endpoints immediately, use the following account:
 
 ---
 
-## 🛠️ Run Locally
+##  Run Locally
 
 Follow these quick steps to get the server running on your machine:
 
@@ -67,6 +67,6 @@ The local development server will be active and listening at: **http://localhost
 Docker
 
 docker compose up --build
-Tests
+
 
 npm test
