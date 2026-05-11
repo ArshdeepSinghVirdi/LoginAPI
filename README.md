@@ -2,7 +2,7 @@
 
 A simple Express REST API providing secure user registration, login authentication, and a protected user profile route using JSON Web Tokens (JWT).
 
-##  Endpoints
+##  1. Endpoints
 
 ### Register User
 *   **Method / Route:** `POST /api/auth/register`
@@ -39,7 +39,7 @@ A simple Express REST API providing secure user registration, login authenticati
 
 ---
 
-##  Demo Credentials
+##  2. Demo Credentials
 
 To test the authentication endpoints immediately, use the following account:
 *   **Username:** `demo`
@@ -47,7 +47,7 @@ To test the authentication endpoints immediately, use the following account:
 
 ---
 
-##  Run Locally
+##  3. Run Locally
 
 Follow these quick steps to get the server running on your machine:
 
